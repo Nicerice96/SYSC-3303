@@ -2,10 +2,17 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class MyClassTest {
+class BoxTest {
+
     @Test
-    void testAdd(){
-        assertEquals(5, MyClass.add(2, 3));
+    void put() {
     }
 
+    @Test
+    void get() {
+    }
+
+    @Test
+    void isEmpty() {
+    }
 }
